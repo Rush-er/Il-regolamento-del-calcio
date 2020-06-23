@@ -10,9 +10,9 @@ By Matis
 
 Per leggere questo manuale è necessario già avere dimestichezza con le regole sotto citate; questo scritto non è una copia del regolamento ma, al contrario, una rilettura più semplice e ricca con un punto di vista pratico.
 
-{}
+ㅤ
 
-{}
+ㅤ
 
 ## Regole del gioco
 
@@ -48,7 +48,7 @@ Per leggere questo manuale è necessario già avere dimestichezza con le regole 
 
 16. I calci d'angolo
     
-    {}
+    ㅤ
 
 ## Il terreno di gioco
 
@@ -62,7 +62,7 @@ Superfici **verdi**
 
 *Colore*: **verde**
 
-{}
+ㅤ
 
 ##### 2. Segnatura del terreno
 
@@ -83,3 +83,23 @@ A metà è segnato il punto centrale di raggio **9.15m**
 **Tutte le linee** devono essere **della stessa larghezza** non superiore a **12 cm**
 
 Linee di porta = larghezza pali / traversa
+
+
+
+##### 3. Dimensioni
+
+Lunghezza (linee laterali) =  90 - 120
+
+Larghezza (linee di porta) = 45 - 90
+
+ㅤ
+
+##### 4. Dimensioni per gare internazionali
+
+Lunghezza (linee laterali) = 100 - 110
+
+Larghezza (linee di porta) = 64 - 75
+
+ㅤ
+
+##### L'area di porta
