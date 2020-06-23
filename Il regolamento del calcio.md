@@ -84,7 +84,7 @@ A metà è segnato il punto centrale di raggio **9.15m**
 
 Linee di porta = larghezza pali / traversa
 
-
+ㅤ
 
 ## 3. Dimensioni
 
@@ -103,5 +103,3 @@ Larghezza (linee di porta) = 64 - 75
 ㅤ
 
 ## 5. L'area di porta
-
-###### 
