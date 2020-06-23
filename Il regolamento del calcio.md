@@ -52,7 +52,7 @@ Per leggere questo manuale è necessario già avere dimestichezza con le regole 
 
 ## Il terreno di gioco
 
-##### 1. Superfice del terreno
+## 1. Superfice del terreno
 
 Valido sempre: superficie interamente **naturale**, se il regolemento della competizione lo consente: interamente **artificiale**, **ibrido**
 
@@ -64,7 +64,7 @@ Superfici **verdi**
 
 ㅤ
 
-##### 2. Segnatura del terreno
+## 2. Segnatura del terreno
 
 Deve essere **rettangolare**
 
@@ -86,7 +86,7 @@ Linee di porta = larghezza pali / traversa
 
 
 
-##### 3. Dimensioni
+## 3. Dimensioni
 
 Lunghezza (linee laterali) =  90 - 120
 
@@ -94,7 +94,7 @@ Larghezza (linee di porta) = 45 - 90
 
 ㅤ
 
-##### 4. Dimensioni per gare internazionali
+## 4. Dimensioni per gare internazionali
 
 Lunghezza (linee laterali) = 100 - 110
 
@@ -102,4 +102,6 @@ Larghezza (linee di porta) = 64 - 75
 
 ㅤ
 
-##### L'area di porta
+## 5. L'area di porta
+
+###### 
